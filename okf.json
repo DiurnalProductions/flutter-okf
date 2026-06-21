@@ -1,0 +1,8 @@
+{
+  "id": "flutter-okf",
+  "name": "Flutter Knowledge Pack",
+  "version": "0.1",
+  "description": "OKF knowledge base for Flutter (widget tree, rendering model, state management, layout, navigation, and performance)",
+  "entry": "index.md",
+  "tags": ["flutter", "dart", "ui", "cross-platform", "widgets"]
+}
